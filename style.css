@@ -95,7 +95,7 @@ body {
     @media (max-width: 600px){
         .profissao-todos{
             display:flex;
-            flex-direction: colum;
+            flex-direction: column;
             align-items: center;
         }
         .profissao-div{
