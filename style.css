@@ -90,3 +90,17 @@ body {
     color: white;
     font-size: 25px;
     }
+
+
+    @media (max-width: 600px){
+        .profissao-todos{
+            display:flex;
+            flex-direction: colum;
+            align-items: center;
+        }
+        .profissao-div{
+            width: 100%;
+            max-width: 300px;
+            margin: 10px 0;
+        }
+    }
